@@ -16,27 +16,11 @@
   </ul>
 </div>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">My Statistics:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiliniumesha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Thilini417" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:thiliniumesha417@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilini417&layout=compact&theme=dark" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thilini417&theme=dark" alt="Streak Stats" />
 </p>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/thiliniumesha417" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@thiliniumesha417" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -67,18 +51,26 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="center">My Stats:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilini417&layout=compact&theme=dark" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thilini417&theme=dark" alt="Streak Stats" />
+  <a href="https://www.linkedin.com/in/thiliniumesha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Thilini417" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:thiliniumesha417@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>  
 </p>
 
 <p align="center">
-  <a href="https://github.com/Thilini417">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thilini417&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thilini417&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thilini417&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thilini417&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thilini417&theme=2077" height="180em" />
+  <a href="https://www.hackerrank.com/thiliniumesha417" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-</p>
+  <a href="https://medium.com/@thiliniumesha417" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  </p>
+
+
