@@ -6,13 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Thilini417&theme=dark_dimmed" alt="Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlPbeUSgMgMb4gM/giphy.gif" alt="Coding" width="500"/>
+  <img src="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87" alt="Coding" width="500"/>
 </p>
 
 <p align="left">
@@ -20,7 +14,11 @@
   <strong>💬 Ask me about:</strong> Python, Java<br>
   <strong>📫 How to reach me:</strong> <a href="mailto:thiliniumesha417@gmail.com">thiliniumesha417@gmail.com</a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Thilini417&theme=dark_dimmed" alt="Trophies" />
+  </a>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/thiliniumesha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
