@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=Thilini417&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="Coding" width="500"/>
+</p>
 
 <p align="left">
   <strong>🌱 I’m currently learning:</strong> Python<br>
