@@ -1,12 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="Coding" width="100"/>
+</p>
 <h1 align="center">Hi 👋, I'm Umesha Kandana Arachchi</h1>
 <h3 align="center">Passionate Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Thilini417&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="Coding" width="500"/>
 </p>
 
 <p align="left">
