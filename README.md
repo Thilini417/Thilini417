@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Thilini417&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<div align="center" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; background-color: #f9f9f9; display: inline-block;">
+<div align="left" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; background-color: #f9f9f9; display: inline-block;">
   <ul style="list-style-type: disc; margin: 0; padding: 0 20px;">
     <li><strong>🌱 I’m currently learning:</strong> Python</li>
     <li><strong>💬 Ask me about:</strong> Python, Java</li>
