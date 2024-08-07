@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="Coding" width="100"/>
 </p>
-<h1 align="center">Hi 👋, I'm Umesha Kandana Arachchi</h1>
+<h1 align="center">Hi 👋, I'm Umesha KandanaArachchi</h1>
 <h3 align="center">Passionate Software Engineer</h3>
 
 <p align="center">
